@@ -27,3 +27,7 @@ nav ul li a:hover {
   padding: 6px 12px;
   border-radius: 22px;
 }
+
+.b-denuncie:hover{
+  background-color: #5f0dbd;
+}
