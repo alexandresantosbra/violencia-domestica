@@ -1,0 +1,29 @@
+header {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+header nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+nav ul li a {
+  color: black;
+}
+nav ul li a:hover {
+  color: #80005d;
+}
+.creas {
+  max-width: 10em;
+}
+.paginas {
+  display: flex;
+  gap: 2.5rem;
+}
+.b-denuncie {
+  background: #80005d;
+  color: white;
+  padding: 6px 12px;
+  border-radius: 22px;
+}
